@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/focardozom/travel-journal/static/css/main.23b7ba49.css",
-    "main.js": "/focardozom/travel-journal/static/js/main.386cd99f.js",
-    "static/js/787.6ba621ea.chunk.js": "/focardozom/travel-journal/static/js/787.6ba621ea.chunk.js",
-    "index.html": "/focardozom/travel-journal/index.html",
-    "main.23b7ba49.css.map": "/focardozom/travel-journal/static/css/main.23b7ba49.css.map",
-    "main.386cd99f.js.map": "/focardozom/travel-journal/static/js/main.386cd99f.js.map",
-    "787.6ba621ea.chunk.js.map": "/focardozom/travel-journal/static/js/787.6ba621ea.chunk.js.map"
+    "main.css": "/travel-journal/static/css/main.23b7ba49.css",
+    "main.js": "/travel-journal/static/js/main.0e8bd826.js",
+    "static/js/787.6ba621ea.chunk.js": "/travel-journal/static/js/787.6ba621ea.chunk.js",
+    "index.html": "/travel-journal/index.html",
+    "main.23b7ba49.css.map": "/travel-journal/static/css/main.23b7ba49.css.map",
+    "main.0e8bd826.js.map": "/travel-journal/static/js/main.0e8bd826.js.map",
+    "787.6ba621ea.chunk.js.map": "/travel-journal/static/js/787.6ba621ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23b7ba49.css",
-    "static/js/main.386cd99f.js"
+    "static/js/main.0e8bd826.js"
   ]
 }
